@@ -7,6 +7,7 @@
 #include <mutex>
 #include <thread>
 #include <unordered_set>
+#include <functional>
 
 namespace ldaplusplus {
 namespace events {
